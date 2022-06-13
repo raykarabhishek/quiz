@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/raykarabhishek/quiz.git/static/css/main.1d949cfe.css",
+    "main.js": "/raykarabhishek/quiz.git/static/js/main.19e16db8.js",
+    "static/media/js.png": "/raykarabhishek/quiz.git/static/media/js.0eb84338e200f18f8f0e.png",
+    "index.html": "/raykarabhishek/quiz.git/index.html",
+    "main.1d949cfe.css.map": "/raykarabhishek/quiz.git/static/css/main.1d949cfe.css.map",
+    "main.19e16db8.js.map": "/raykarabhishek/quiz.git/static/js/main.19e16db8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d949cfe.css",
+    "static/js/main.19e16db8.js"
+  ]
+}
